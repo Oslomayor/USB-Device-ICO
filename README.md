@@ -4,4 +4,5 @@
  它的内容是：  
 > `[Autorun]  
 icon=xxx.ico`  
+
 xxx 为 ico 图片的文件名
