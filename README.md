@@ -3,4 +3,5 @@
  核心原理是在U盘根目录下创建一个 **autorun.inf** 文件。  
  它的内容是：  
 `[Autorun]  
-icon=1.ico`  
+icon=xxx.ico`  
+xxx 为 ico 图片的文件名
