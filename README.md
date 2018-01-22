@@ -1,6 +1,7 @@
 # U-Device-ICO
 40行左右C代码，编译生成 exe 运行，即可更改U盘图标  
-效果像这样：    
+效果像这样:  
+
 ![](https://github.com/Oslomayor/USB-Device-ICO/blob/master/%E9%95%87%E9%95%BF%E7%9A%84U%E7%9B%98.PNG?raw=true)
 ## 原理
  核心原理是用C语言的文件操作，在U盘根目录下创建一个 **autorun.inf** 文件  
