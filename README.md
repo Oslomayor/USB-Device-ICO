@@ -19,4 +19,4 @@ __40行左右C代码，编译生成 exe 运行，即可更改U盘图标__
 4. 重新拔插U盘图标更改生效  
 
 ## Python 版本
-[Python-GUI-DISKicon]https://github.com/Oslomayor/Python-GUI-DISKicon
+[Python-GUI-DISKicon](https://github.com/Oslomayor/Python-GUI-DISKicon)
