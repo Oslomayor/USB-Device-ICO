@@ -1,4 +1,4 @@
-# U-Device-ICO
+# USB-Device-ICO
 __40行左右C代码，编译生成 exe 运行，即可更改U盘图标__  
 效果像这样:  
 
@@ -17,3 +17,6 @@ __40行左右C代码，编译生成 exe 运行，即可更改U盘图标__
 2. 将源代码编译后的 exe 程序放在U盘根目录下  
 3. 在U盘根目录中运行 exe 程序  
 4. 重新拔插U盘图标更改生效  
+
+## Python 版本
+[Python-GUI-DISKicon]https://github.com/Oslomayor/Python-GUI-DISKicon
